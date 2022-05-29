@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a new fil
+=======
+this is a new files
+>>>>>>> develop
